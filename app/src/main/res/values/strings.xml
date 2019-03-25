@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ML Kit Example</string>
+
+    <string name="ml_kit_codelab">ML Kit Codelab</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="barcode_scanning">Barcode Scanning</string>
+    <string name="image_labeling">Image Labeling</string>
+    <string name="landmark_recognition">Landmark Recognition</string>
+    <string name="language_identification">Language Identification</string>
+    <string name="custom_models">Custom Models</string>
+
+</resources>
